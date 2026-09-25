@@ -1,0 +1,125 @@
+{
+  "reports": [
+    {
+      "date": "2026-09-12",
+      "period_covered": "2026-08-13 to 2026-09-12",
+      "report_md": "reports/2026-09-12_healthcare_management_report.md",
+      "report_docx": "reports/2026-09-12_healthcare_management_report.docx",
+      "run_type": "first_run",
+      "note": "report_md was removed from the repo per an explicit user request in a later interactive session (commit 0f5f368); reconstructed here from git history for continuity of the practices log only, not re-added as a file.",
+      "topics_covered": [
+        "operational_management",
+        "digital_ai_management",
+        "quality_accreditation",
+        "financial_business_models",
+        "hr_staff_management",
+        "patient_experience_marketing",
+        "clinic_network_management",
+        "global_benchmarks"
+      ],
+      "practices_and_sources": [
+        { "topic": "operational_management", "practice": "AI-driven shift/staffing scheduling systems for clinics", "source": "Healthcare Brew", "date": "2026-08-13" },
+        { "topic": "operational_management", "practice": "Rising patient no-show rates linked to cost burden (MGMA Stat poll)", "source": "MGMA", "date": "2026-08-11" },
+        { "topic": "digital_ai_management", "practice": "CFO Playbook for AI in revenue cycle management", "source": "HFMA", "date": "2026-08-25" },
+        { "topic": "digital_ai_management", "practice": "Warning: AI revenue-cycle success measured by tasks not financial outcomes", "source": "MedEvolve / PRNewswire", "date": "2026-08-03" },
+        { "topic": "digital_ai_management", "practice": "Agentic AI expected value in administrative burden reduction (Midyear Outlook)", "source": "Deloitte", "date": "2026-08-06" },
+        { "topic": "quality_accreditation", "practice": "Sixth consecutive JCI accreditation cycle at mid-size private hospital", "source": "Clinica Hospital San Fernando (Panama)", "date": "2026-08-20" },
+        { "topic": "quality_accreditation", "practice": "First private dental clinic in Turkey to achieve JCI (Ambulatory Care Program)", "source": "Esnan Dental Clinics / Dental Tribune", "date": "2026-08 (early)" },
+        { "topic": "quality_accreditation", "practice": "Cyber Resilience Readiness certification scope expanded to health systems", "source": "Joint Commission", "date": "2026-09-01" },
+        { "topic": "financial_business_models", "practice": "Subscription model for sleep/longevity diagnostics (SleepLongevityAge)", "source": "Dumbo Health", "date": "2026-07-08" },
+        { "topic": "financial_business_models", "practice": "EBITDA valuation framework tied to platform quality for outpatient specialty clinics", "source": "Auxo Capital Advisors", "date": "2026-08-30" },
+        { "topic": "hr_staff_management", "practice": "Mandatory physician mentorship program in Russia, readiness survey", "source": "Kommersant / Aktion Media", "date": "2026-08-04" },
+        { "topic": "hr_staff_management", "practice": "Ambient AI scribes reduce clinician burnout (51.9% to 38.8%)", "source": "PubMed study", "date": "2026-07-22 (coverage)" },
+        { "topic": "hr_staff_management", "practice": "PTO redesign (use-it-or-lose-it) as burnout/retention lever", "source": "UofL Health / Becker's Hospital Review", "date": "undated" },
+        { "topic": "patient_experience_marketing", "practice": "Wait time under 15 min correlates with 30+ point NPS gap; CMS HCAHPS 2.0", "source": "CustomerGauge", "date": "2026 benchmark" },
+        { "topic": "patient_experience_marketing", "practice": "Online reviews as pass/fail filter before booking", "source": "Rater8 survey / DoctorConnect", "date": "2025 survey, 2026 coverage" },
+        { "topic": "clinic_network_management", "practice": "State-level crackdown on PE/MSO healthcare deals (25 states)", "source": "Stateline", "date": "2026-08-25" },
+        { "topic": "clinic_network_management", "practice": "Joint-venture (not merger) model for combining networks of different profiles", "source": "AdventHealth / Intermountain Health", "date": "2026-08-06" },
+        { "topic": "clinic_network_management", "practice": "Acquisition + founder-physician retention as network growth model", "source": "Ivy Fertility", "date": "2026-09-09" },
+        { "topic": "global_benchmarks", "practice": "Strategic focus over geographic sprawl (European business exit)", "source": "Ramsay Health Care / Ramsay Sante", "date": "2026-08-26" },
+        { "topic": "global_benchmarks", "practice": "Multiyear innovation partnerships with AI startups instead of one-off pilots", "source": "Mayo Clinic Platform Accelerate", "date": "2026-09-03" },
+        { "topic": "global_benchmarks", "practice": "Accreditation + price transparency as medical tourism hub strategy", "source": "Thailand / Malaysia national programs", "date": "2026 (background)" }
+      ],
+      "known_gaps": [
+        "No strong in-window Lean/Six Sigma or patient-flow case study found",
+        "No strong in-window Cleveland Clinic / Kaiser Permanente / Middle East network case found",
+        "No dated back-office consolidation case study found"
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "period_covered": "2026-09-12 to 2026-09-18",
+      "report_md": "reports/2026-09-18_healthcare_management_report.md",
+      "report_docx": "reports/2026-09-18_healthcare_management_report.docx",
+      "run_type": "weekly",
+      "topics_covered": [
+        "operational_management",
+        "digital_ai_management",
+        "quality_accreditation",
+        "financial_business_models",
+        "hr_staff_management",
+        "patient_experience_marketing",
+        "clinic_network_management",
+        "global_benchmarks"
+      ],
+      "practices_and_sources": [
+        { "topic": "operational_management", "practice": "Gemba boards (visual management) 5-year ROI $2.85M, 3000+ staff suggestions, Truman VA Medical Center", "source": "Journal of Healthcare Management", "date": "2026-09 (issue Sep-Oct)" },
+        { "topic": "digital_ai_management", "practice": "~36% of healthcare leaders using agentic AI for scheduling/contact-center workflows (Becker's conference signal)", "source": "Becker's Hospital Review", "date": "2026-09-14/17" },
+        { "topic": "quality_accreditation", "practice": "CMS extended DNV Healthcare USA (NIAHO) accreditation approval to 2032, ISO 9001-based alternative to JCI", "source": "Federal Register", "date": "2026-09-17" },
+        { "topic": "financial_business_models", "practice": "Membership/subscription primary care model as physician retention tool amid physician shortage (Vermont)", "source": "VTDigger", "date": "2026-09-11" },
+        { "topic": "hr_staff_management", "practice": "Burnout framed as structural/organizational issue, not wellness issue (Moronski, TruMerit/UPenn)", "source": "JONA / PubMed", "date": "2026-07 (approx, unconfirmed)" },
+        { "topic": "patient_experience_marketing", "practice": "Patient loyalty mediated by switching costs and clinic reputation, incl. risk of losing patient when their doctor leaves (Taiwan)", "source": "BMC Health Services Research", "date": "2026 (unconfirmed)" },
+        { "topic": "clinic_network_management", "practice": "Sanford Health / North Memorial Health merger completed with $600M in binding 10-year infrastructure commitments", "source": "Sanford Health / Dakota News Now", "date": "2026-09-01" },
+        { "topic": "clinic_network_management", "practice": "PE investors shifting from passive oversight to operational competencies inside portfolio companies (HPE Miami 2026)", "source": "McKinsey", "date": "2026-05-06" },
+        { "topic": "global_benchmarks", "practice": "Cleveland Clinic Abu Dhabi (M42) GS1 supply chain standardization: 75% stockout reduction, zero cancelled high-acuity surgeries", "source": "GS1 Healthcare Case Studies / GS1 UAE", "date": "2026-06/07 (unconfirmed exact date)" },
+        { "topic": "global_benchmarks", "practice": "Mayo Clinic AI governance: broad idea generation, narrow centralized approval, 500+ models deployed", "source": "Axios", "date": "2026-08-16" },
+        { "topic": "global_benchmarks", "practice": "Kaiser Permanente Q2 2026 operating income $1.7B (4.6% margin), +$600M YoY", "source": "Kaiser Permanente", "date": "2026-08-14" },
+        { "topic": "global_benchmarks", "practice": "Longevium (Dubai) boutique longevity network expanding to Bali, continuity-of-care-across-locations model", "source": "Gulf News", "date": "2026-09-17 (source unverified)" }
+      ],
+      "known_gaps": [
+        "No dated back-office consolidation case study across differently-profiled clinics within one management company",
+        "No new JCI accreditation of a specific private clinic in-window",
+        "No new value-based care / bundled pricing / RCM case study in-window"
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "period_covered": "2026-09-18 to 2026-09-25",
+      "report_md": "reports/2026-09-25_healthcare_management_report.md",
+      "report_docx": "reports/2026-09-25_healthcare_management_report.docx",
+      "run_type": "weekly",
+      "topics_covered": [
+        "operational_management",
+        "digital_ai_management",
+        "quality_accreditation",
+        "financial_business_models",
+        "hr_staff_management",
+        "patient_experience_marketing",
+        "clinic_network_management",
+        "global_benchmarks"
+      ],
+      "practices_and_sources": [
+        { "topic": "operational_management", "practice": "Earlier AI-driven pre-op patient readiness outreach cut targeted late surgical cancellations by 50%", "source": "Becker's Hospital Review (OHSU)", "date": "2026-09-23" },
+        { "topic": "operational_management", "practice": "More specialists does not shorten wait times (induced-demand effect); triage/self-scheduling/APP-led intake as alternatives", "source": "NEJM Catalyst", "date": "2026-09-15" },
+        { "topic": "digital_ai_management", "practice": "AI in revenue cycle management requires baseline metric, ROI target and named accountable owner per use case", "source": "HFMA", "date": "2026-09-21" },
+        { "topic": "digital_ai_management", "practice": "Ambient AI scribes cut documentation time by 69.1% (simulated primary-care encounters)", "source": "JAMIA Open / University of Toronto", "date": "2026-09-15/16" },
+        { "topic": "quality_accreditation", "practice": "Systematic review finds no empirical studies on JCI accreditation effectiveness specifically in outpatient/ambulatory surgery (80 publications reviewed)", "source": "Healthcare (MDPI)", "date": "2026-09 (early, unconfirmed exact day)" },
+        { "topic": "financial_business_models", "practice": "Franchise density-then-expansion scaling model: 568 franchises in 6 months, ~80% concentrated in one region, target 1000 by FY27", "source": "Outlook Business (Chandan Healthcare, India)", "date": "2026-09-23" },
+        { "topic": "hr_staff_management", "practice": "\"Culture CPR\" (Celebration, Purpose, honest feedback) as retention lever vs. pay increases; 25-35% first-year turnover cited", "source": "Medical Economics", "date": "2026-09-24" },
+        { "topic": "hr_staff_management", "practice": "Russian regions add financial incentives (grants, housing compensation) for physician mentorship; new federal mentor award; Minzdrav/FFOMS confirm mentorship as mandatory HR element for private OMS clinics", "source": "Vademecum", "date": "2026-08-06" },
+        { "topic": "patient_experience_marketing", "practice": "Non-clinical friction (booking, front desk, portal) is the primary loyalty driver; 'very easy' experience correlates with ~90% retention (10,000-consumer survey)", "source": "Medical Economics", "date": "2026-09-22" },
+        { "topic": "patient_experience_marketing", "practice": "Simply asking for a review raised conversion; share of patients rarely/never leaving reviews fell from 56% to 42% YoY", "source": "Medical Economics", "date": "2026-09-22 (cluster)" },
+        { "topic": "clinic_network_management", "practice": "Post-merger integration quality (not deal terms) determines M&A success (McGuireWoods Healthcare Growth & Operations Conference)", "source": "LevinPro Healthcare", "date": "2026-09-18/24" },
+        { "topic": "clinic_network_management", "practice": "Physician groups = 29% of all healthcare M&A deals; tuck-ins outweigh new platforms; multiple compression in saturated roll-up niches (dental, aesthetic ophthalmology, dermatology)", "source": "LevinPro Healthcare", "date": "2026-09-21" },
+        { "topic": "clinic_network_management", "practice": "WVU Health System acquiring 5-hospital Independence Health System, $800M committed investment, closing Sept/Oct 2026", "source": "Becker's Hospital Review", "date": "2026-09 (closing window; announced 2026-06)" },
+        { "topic": "global_benchmarks", "practice": "Magrabi Health (Saudi/Gulf ophthalmology network) first global specialty-network 'Network of Excellence' accreditation via Surgical Review Corporation", "source": "HealthcareMEA (source unverified)", "date": "2026-09-15" },
+        { "topic": "global_benchmarks", "practice": "PureHealth (Abu Dhabi) cross-border integration of Hellenic Healthcare Group: revenue +9%, net profit +20%, EBITDA +24% YoY (H1 2026)", "source": "Economy Middle East", "date": "2026-07-31" }
+      ],
+      "known_gaps": [
+        "No dated back-office consolidation case study across differently-profiled clinics within one management company (third consecutive report with this gap)",
+        "No new value-based care / bundled pricing case study in-window",
+        "ISQua Dublin conference (2026-09-27/30) results not yet available - flagged for next report"
+      ]
+    }
+  ]
+}
