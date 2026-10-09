@@ -120,6 +120,44 @@
         "No new value-based care / bundled pricing case study in-window",
         "ISQua Dublin conference (2026-09-27/30) results not yet available - flagged for next report"
       ]
+    },
+    {
+      "date": "2026-10-09",
+      "period_covered": "2026-09-25 to 2026-10-09 (strict window), plus 6 items dated 2026-09-15 to 2026-09-26 included due to confirmed search-indexing lag for very recent publications",
+      "report_md": "reports/2026-10-09_healthcare_management_report.md",
+      "report_docx": "reports/2026-10-09_healthcare_management_report.docx",
+      "run_type": "biweekly",
+      "topics_covered": [
+        "operational_management",
+        "digital_ai_management",
+        "financial_business_models",
+        "hr_staff_management",
+        "patient_experience_marketing",
+        "clinic_network_management"
+      ],
+      "topics_empty_this_cycle": [
+        "quality_accreditation",
+        "global_benchmarks"
+      ],
+      "practices_and_sources": [
+        { "topic": "operational_management", "practice": "Explainable, fairness-constrained AI nurse scheduling (pre/post study, 671-bed Taiwan hospital, 156 nurses): explanation engagement correlated with satisfaction (r=0.456, p<.001)", "source": "JMIR Nursing 2026;9:e94450", "date": "accepted 2026-05-05 (exact publication date unconfirmed)" },
+        { "topic": "digital_ai_management", "practice": "GE HealthCare CareIntellect for Operations: 72-hour AI capacity-forecasting SaaS app; first evaluation sites Duke Health and Queen's Health Systems", "source": "GE HealthCare / Fierce Healthcare", "date": "2026-09-15" },
+        { "topic": "digital_ai_management", "practice": "MGMA Stat poll: technology ranks 3rd (21%) among complexity drivers through 2036, behind payment (35%) and workforce (25%)", "source": "MGMA", "date": "2026-09-29" },
+        { "topic": "financial_business_models", "practice": "Hims & Hers Q2 2026 subscription economics: revenue +38%, subscribers to 2.89M, but gross margin fell 76%->64% on richer/costlier product mix", "source": "Hims & Hers Health Inc. / beancount.io analysis", "date": "results 2026-08-10, analysis 2026-09-26" },
+        { "topic": "hr_staff_management", "practice": "Harris Poll 2026 Healthcare Workforce Barometer: employers underestimate flight risk (39% vs workers' own 59%); burnout (51%, +15pp YoY) cited by workers as top exit reason vs employers citing lack of advancement (47%)", "source": "The Harris Poll / Chief Healthcare Executive", "date": "2026-09-16" },
+        { "topic": "hr_staff_management", "practice": "CHRO hiring surge in US health systems (>=25 appointments since Jan 2026, vs 11 in all of 2025); role mandate broadening, 1-year retention as success metric", "source": "Becker's Hospital Review", "date": "~2026-09-29/30 (exact date unconfirmed)" },
+        { "topic": "hr_staff_management", "practice": "Four US health-system CHROs' 'nonnegotiable' 2026 workforce investments (frontline leader capability, $8.9M benefits reinvestment at Baystate, skill-based hiring at Freeman)", "source": "Becker's Hospital Review", "date": "~2026-09-25/29 (exact date unconfirmed)" },
+        { "topic": "patient_experience_marketing", "practice": "Accenture 'uncertain middle' patient loyalty concept: likelihood to stay drops ~53pp as engagement drops from 'very easy' to 'somewhat'; access/booking figures diverge between Accenture (41%) and Medical Economics interview (40%/56%)", "source": "Accenture / Medical Economics", "date": "report 2026-07-22, coverage 2026-09-17" },
+        { "topic": "clinic_network_management", "practice": "HealthPartners-Essentia Health merger: full-integration governance (one org/board) vs shared-services, acquired system keeps local branding during transition; 22 hospitals, 135+ clinics, ~45,000 employees combined", "source": "Chief Healthcare Executive / Becker's / Fierce Healthcare", "date": "2026-09-29 to 2026-10-01" },
+        { "topic": "clinic_network_management", "practice": "Minnesota AG opened formal 'public interest review' of the HealthPartners-Essentia merger before approval (pre-close stakeholder consultation model)", "source": "Minnesota Attorney General press release", "date": "2026-09-29" }
+      ],
+      "known_gaps": [
+        "No dated back-office consolidation case study across differently-profiled clinics within one management company (FOURTH consecutive report with this gap) - recommended next step: targeted outreach/interviews with specific multi-brand operators instead of generic search",
+        "ISQua Dublin 2026 (2026-09-27/30) still has no post-conference outcomes indexed (second consecutive report flagging this as pending)",
+        "No quality/accreditation findings this cycle",
+        "No global-benchmark findings transferable to small/medium clinics this cycle",
+        "Direct WebFetch/source-page verification was blocked by environment network policy for all external domains this cycle; all figures sourced via WebSearch's own page extraction only"
+      ]
     }
   ]
 }
