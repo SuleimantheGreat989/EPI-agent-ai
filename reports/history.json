@@ -158,6 +158,50 @@
         "No global-benchmark findings transferable to small/medium clinics this cycle",
         "Direct WebFetch/source-page verification was blocked by environment network policy for all external domains this cycle; all figures sourced via WebSearch's own page extraction only"
       ]
+    },
+    {
+      "date": "2026-10-23",
+      "period_covered": "2026-10-09 to 2026-10-23, plus select items from earlier in 2026 not previously covered in this series (each flagged individually in the report)",
+      "report_md": "reports/2026-10-23_healthcare_management_report.md",
+      "report_docx": "reports/2026-10-23_healthcare_management_report.docx",
+      "run_type": "biweekly",
+      "topics_covered": [
+        "operational_management",
+        "digital_ai_management",
+        "quality_accreditation",
+        "financial_business_models",
+        "hr_staff_management",
+        "patient_experience_marketing",
+        "clinic_network_management"
+      ],
+      "topics_empty_this_cycle": [
+        "global_benchmarks"
+      ],
+      "clinic_spotlight": {
+        "clinic": "Clinique La Prairie",
+        "location": "Montreux, Switzerland (plus urban Longevity Hubs: Madrid, Bangkok, Doha, Taipei, Dubai, Anji/China, Scottsdale/US)",
+        "profile": "premium longevity / anti-aging medicine",
+        "angles_covered": ["unique_business_model (real estate / operating business separation, Beiersdorf sale-leaseback)", "unique_pjm (flagship intensive stay + supporting urban hub visits)"]
+      },
+      "practices_and_sources": [
+        { "topic": "digital_ai_management", "practice": "Deloitte: 85% of US healthcare IT leaders plan to increase agentic AI investment; only ~30% have scaled any function org-wide, 2% enterprise-wide", "source": "Deloitte / Becker's Hospital Review / Chief Healthcare Executive", "date": "2026-02-11/20" },
+        { "topic": "digital_ai_management", "practice": "Baylor Scott & White AI-driven revenue cycle management: +$20.6M revenue in 6 months, CMI improved 3.5%", "source": "Healthcare Finance News", "date": "unconfirmed exact date" },
+        { "topic": "quality_accreditation", "practice": "CARE Hospitals HITEC City (India) achieves JCI accreditation", "source": "The Hans India / Telangana Today", "date": "2026-10-13" },
+        { "topic": "quality_accreditation", "practice": "Kazakhstan ties national accreditation category to eligibility for long-term government healthcare procurement contracts (752 of eligible orgs accredited)", "source": "inbusiness.kz / Kazakhstan MOH", "date": "unconfirmed exact date" },
+        { "topic": "financial_business_models", "practice": "VIO Med Spa franchise scaling: 15+ new franchise agreements since start of 2026, ~64-65 locations across 20 states", "source": "MedEstheticsMag / Franchising.com", "date": "2026-07-13 / 2026-08-20" },
+        { "topic": "hr_staff_management", "practice": "McKinsey HR Monitor 2026: pay overtakes job security as top retention driver in healthcare workforce", "source": "McKinsey / Becker's Hospital Review", "date": "unconfirmed exact date" },
+        { "topic": "hr_staff_management", "practice": "Russia MOH Order No. 167n (05.03.2026) formalizes mandatory physician mentorship regulation; outcomes report due to government by 2026-11-01", "source": "ophthalmojournal.com (secondary reference)", "date": "2026-03-05" },
+        { "topic": "clinic_network_management", "practice": "ModMed / U.S. Orthopaedic Partners: unified EHR/PM/revenue-cycle platform across 55+ locations, ~30,000 staff-hours saved, <30-day revenue collection (first dated back-office standardization case at this scale found in 5 search cycles; still single-specialty, not a multi-profile holding)", "source": "ModMed / Business Wire", "date": "2026-06-04" },
+        { "topic": "clinic_network_management", "practice": "Mat' i Ditya (Russia) vertically integrated multi-format clinic group, Q1 2026 revenue +32% YoY, company-reported patient routing model across maternity/inpatient/outpatient formats", "source": "investmint.ru / mcclinics.ru (self-reported)", "date": "2026 Q1" }
+      ],
+      "known_gaps": [
+        "Still no direct case of back-office/process standardization across DIFFERENTLY-PROFILED clinics within one management company (fifth consecutive cycle) - ModMed/USOP partially analogous but single-specialty",
+        "Global benchmarks topic empty for second consecutive cycle - no new dated case with measurable management (not just financial) results found for Mayo/Cleveland/Kaiser/Middle East-Asia networks",
+        "Operational management topic found no material dated within the strict two-week window (third report series with a near-empty cycle on some topic); used older uncovered background cases instead, clearly flagged",
+        "ISQua Dublin 2026 (27-30 Sept) post-conference outcomes still not indexed - third consecutive report flagging this as pending",
+        "Patient experience/marketing topic thin - only one loosely-dated McKinsey piece found, no new quantitative benchmark",
+        "Recommended next step (recurring across topics 1, 3, 7, 8): switch from generic topical search queries to targeted monitoring of specific named operators, vendors, and conference outputs"
+      ]
     }
   ]
 }
