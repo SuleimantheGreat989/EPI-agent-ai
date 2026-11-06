@@ -202,6 +202,58 @@
         "Patient experience/marketing topic thin - only one loosely-dated McKinsey piece found, no new quantitative benchmark",
         "Recommended next step (recurring across topics 1, 3, 7, 8): switch from generic topical search queries to targeted monitoring of specific named operators, vendors, and conference outputs"
       ]
+    },
+    {
+      "date": "2026-11-06",
+      "period_covered": "2026-10-23 to 2026-11-06",
+      "report_md": "reports/2026-11-06_healthcare_management_report.md",
+      "report_docx": "reports/2026-11-06_healthcare_management_report.docx",
+      "run_type": "biweekly",
+      "topics_covered": [
+        "operational_management",
+        "digital_ai_management",
+        "quality_accreditation",
+        "financial_business_models",
+        "hr_staff_management",
+        "patient_experience_marketing",
+        "clinic_network_management",
+        "global_benchmarks"
+      ],
+      "topics_thin_this_cycle": [
+        "operational_management",
+        "patient_experience_marketing"
+      ],
+      "clinic_spotlight": {
+        "clinic": "Shouldice Hospital",
+        "location": "Thornhill, Ontario, Canada",
+        "profile": "single-specialty private surgical hospital (hernia repair only)",
+        "angles_covered": ["unique_service (focused-factory single-procedure model, proprietary technique)", "unique_pjm (walking to OR, early ambulation, communal recovery)", "marketing (alumni reunion / referral loyalty - current status unconfirmed)"]
+      },
+      "practices_and_sources": [
+        { "topic": "operational_management", "practice": "Providence AI surgical-scheduling platform cut unused/unreleased OR block time by 30% (background case, date unconfirmed)", "source": "Becker's Hospital Review", "date": "unconfirmed" },
+        { "topic": "operational_management", "practice": "Boston Children's Hospital neurosurgery ops changes: +12% visit volume, -26% cancellations (background case, date unconfirmed)", "source": "Becker's Hospital Review", "date": "unconfirmed" },
+        { "topic": "digital_ai_management", "practice": "HFMA poll: 63% of orgs adopted AI in RCM but only 15% of adopters report positive ROI", "source": "HFMA", "date": "2026 (exact date unconfirmed)" },
+        { "topic": "digital_ai_management", "practice": "Peterson Health Technology Institute: AI lowers org-level admin costs but not system-level healthcare costs", "source": "Peterson Health Technology Institute", "date": "2026-08-17" },
+        { "topic": "digital_ai_management", "practice": "University Hospitals AI virtual assistant across 150 hospitals/clinics contact center (2.2M calls/yr)", "source": "Becker's Hospital Review", "date": "unconfirmed" },
+        { "topic": "digital_ai_management", "practice": "Gillette Children's AI scheduling/pre-visit registration rollout across 11 multispecialty clinics", "source": "Becker's Hospital Review", "date": "unconfirmed" },
+        { "topic": "quality_accreditation", "practice": "Joint Commission 'Accreditation 360: The New Standard' cuts hospital standards from 1551 to 774, launches Continuous Engagement model", "source": "McDermott Will & Emery / Hall Render / Dinsmore (secondary coverage)", "date": "effective 2026-01-01" },
+        { "topic": "financial_business_models", "practice": "CMS TEAM bundled-payment model becomes mandatory for ~740 US hospitals (first mandatory bundling program in 15 years)", "source": "Healthcare finance trade coverage", "date": "effective 2026-01-01" },
+        { "topic": "financial_business_models", "practice": "MD Medical Group H1 2026 IFRS: revenue +28.8% YoY, outpatient visits +71.2%, growth attributed largely to consolidation of acquired clinics", "source": "MD Medical Group IFRS filings / investmint.ru / mcclinics.ru", "date": "published 2026-08-28" },
+        { "topic": "hr_staff_management", "practice": "National physician survey (n=5741): 39.1% high moral distress, 75.1% of those report burnout vs 30.7% of low-distress group", "source": "JAMA Network Open (Tutty et al.) / Healio", "date": "2026-04-20 (coverage)" },
+        { "topic": "hr_staff_management", "practice": "Stanford-led qualitative study: individual resilience-training programs can worsen moral injury; recommend peer-support/psychological safety structures instead", "source": "JAMA Network Open / HealthExec", "date": "2026-06-03" },
+        { "topic": "clinic_network_management", "practice": "MD Medical Group acquires 'Zdravitsa' ambulatory network (Novosibirsk) for 900M RUB; local brand retained, back-office consolidation from June 2026, patient routing to group's specialty hospitals", "source": "Alfa-Bank analytics / investfuture.ru / pharmvestnik.ru", "date": "2026-06-18" },
+        { "topic": "clinic_network_management", "practice": "Healthcare PE shifting from financial engineering to operational execution; deal volume down 23.3% YoY in Q1 2026; compliance/process quality now central to due diligence", "source": "Riveron ('2026 Will Be a Reckoning') / HPE Miami 2026 coverage", "date": "2026 (exact date unconfirmed)" },
+        { "topic": "global_benchmarks", "practice": "Cleveland Clinic Employer Solutions Program: $55M cumulative employer savings over 15 years, expanded to 16M covered workers/dependents nationwide", "source": "Cleveland Clinic newsroom / Chief Healthcare Executive / Becker's", "date": "2025-10-14 (15th-anniversary coverage)" },
+        { "topic": "global_benchmarks", "practice": "Turkey overtakes Thailand as top medical-tourism destination; UAE ranks 9th; Singapore private hospital sector served 646K foreign patients (2024), revenue forecast to S$8.3B by 2031", "source": "SeasiaStats / industry market-research (unverified secondary figures)", "date": "2026-10 (ranking update)" }
+      ],
+      "known_gaps": [
+        "Still no direct case of back-office/process standardization across DIFFERENTLY-PROFILED clinics within one management company (sixth consecutive cycle)",
+        "Operational management topic thin again (fourth consecutive report) - no new material strictly within the two-week window; used older background cases, clearly flagged",
+        "Patient experience/marketing topic thin this cycle - no new verifiable, non-vendor-marketing data found in-window",
+        "ISQua Dublin 2026 (27-30 Sept) post-conference outcomes still not indexed (fourth consecutive report flagging this)",
+        "Russia MOH Order No. 167n mandatory-mentorship outcomes report (due to government by 2026-11-01) still not found in open sources as of this report's compilation date - carry forward to next cycle",
+        "Recommended next step (recurring): switch from generic topical search queries to targeted monitoring of specific named operators, vendors, and conference outputs, especially for the multi-profile back-office standardization gap"
+      ]
     }
   ]
 }
